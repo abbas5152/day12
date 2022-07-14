@@ -1,0 +1,3 @@
+Explain the difference between dynamic polymorphism and dynamic binding?
+ Dynamic polymorphism is method overloading.we can also call it runtime polymorphism.where as late binding also
+ called as dynamic binding.that means at which method body will bind with method decides at runtime.
